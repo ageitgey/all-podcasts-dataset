@@ -89,5 +89,6 @@ The iTunes-specific description of the podcast, as reported in a
 
 Here's one podcast as it appears in the data set:
 
-| slug  | name | image_url | feed_url | website_url | itunes_owner_name | itunes_owner_email | managing_editor_name | managing_editor_email | explicit | description | itunes_summary |
+| slug | name | image_url | feed_url | website_url | itunes_owner_name | itunes_owner_email | managing_editor_name | managing_editor_email | explicit | description | itunes_summary |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | my-brother-my-brother-and-me | My Brother, My Brother And Me | http://assets.libsyn.com/content/7416218.jpg | http://mbmbam.libsyn.com/rss | http://www.mbmbam.com | Justin McElroy | mbmbam@gmail.com | mbmbam@gmail.com | mbmbam@gmail.com | true | Free advice, from three of the world's most qualified experts. | My Brother, My Brother and Me is an advice show for the modern age. |
